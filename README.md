@@ -12,10 +12,10 @@ Data Preprocessing: Handling missing values, scaling features, encoding categori
 Feature Selection: Identifying significant features affecting heart disease prediction.
 Machine Learning Algorithms: Logistic Regression, Decision Trees, Random Forest, K-Nearest Neighbors (KNN), gradient boosting and xgboost
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score.
-Tools & Technologies:
 
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Environment: Jupyter Notebook
+
 Expected Outcome:
 The project aims to build a robust model that can predict the presence of heart disease with high accuracy, helping in the early detection and prevention of heart-related conditions.
