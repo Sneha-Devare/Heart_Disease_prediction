@@ -13,6 +13,7 @@ Data Preprocessing: Handling missing values, scaling features, encoding categori
 Feature Selection: Identifying significant features affecting heart disease prediction.
 
 Machine Learning Algorithms: Logistic Regression, Decision Trees, Random Forest, K-Nearest Neighbors (KNN), gradient boosting and xgboost
+
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score.
 
 Programming Language: Python
