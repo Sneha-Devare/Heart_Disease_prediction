@@ -9,7 +9,9 @@ The project uses a dataset from a reliable source (such as Kaggle) containing pa
 Techniques Used:
 
 Data Preprocessing: Handling missing values, scaling features, encoding categorical data.
+
 Feature Selection: Identifying significant features affecting heart disease prediction.
+
 Machine Learning Algorithms: Logistic Regression, Decision Trees, Random Forest, K-Nearest Neighbors (KNN), gradient boosting and xgboost
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score.
 
