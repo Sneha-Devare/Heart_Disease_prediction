@@ -1,10 +1,3 @@
-![dt](https://github.com/user-attachments/assets/0d215f4c-357a-4aa1-8c36-a9d29cef29b8)
-![Screenshot (54)](https://github.com/user-attachments/assets/084cc77c-21ad-4dbe-a6b1-ab4e1f930d5f)
-![Screenshot (51)](https://github.com/user-attachments/assets/dc296af7-30ad-4e4d-9f81-9929e5f08b2c)
-![Screenshot (52)](https://github.com/user-attachments/assets/3678550e-a167-4d2b-9283-a690b1b8a0d7)
-![Screenshot (50)](https://github.com/user-attachments/assets/93781679-662e-4b8c-b005-490c0add587e)
-![knn](https://github.com/user-attachments/assets/9d43b38b-c16e-45fc-9b2b-3b0e8d22a81e)
-![Screenshot (50)](https://github.com/user-attachments/assets/3b5b8932-3895-4078-9322-46189c746906)
 Project Title: Heart Disease Prediction
 
 Objective:
