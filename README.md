@@ -132,7 +132,6 @@ It highlights the importance of preprocessing, EDA, and model evaluation in buil
 ## 🔮 **Future Enhancements**
 - Hyperparameter tuning to improve model accuracy  
 - Feature selection for better performance  
-- Advanced models like **XGBoost**  
 - Deployment using **Streamlit or Flask**
 
 ---
